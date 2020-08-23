@@ -2,7 +2,7 @@
 Analysis Using Jupyter Notebooks, Pandas, + Matplotlib
 
 ## Overview of the PyBer Ride Data Analysis :taxi:
-This project was created for V.Isulaize, a CEO of a ride sharing app, called PyBer. We were given two sets of data to work with and gather analysis. The first was a CSV file detailing the amount of drivers and type of region for each city that PyBer operates in. The three types of regions are Urban, Suburban, and Rural. The second CSV file contained information about all of the rides that PyBer had recorded for 2019. This detailed the city location, date and time, fare price, and ID number for each ride. We used Jupyter notebooks and Pandas to inspect datasets, write scripts to merge data into one dataframe for our analysis, and perform complex calculations. Then we used Matplotlib to create a line graph and provide a visual story from the data and represent our findings. 
+This project was created for a CEO of a ride sharing app called PyBer. We were given two sets of data to work with and gather analysis. The first was a CSV file detailing the amount of drivers and type of region for each city that PyBer operates in. The three types of regions are Urban, Suburban, and Rural. The second CSV file contained information about all of the rides that PyBer had recorded for 2019. This detailed the city location, date and time, fare price, and ID number for each ride. We used Jupyter notebooks and Pandas to inspect datasets, write scripts to merge data into one dataframe for our analysis, and perform complex calculations. Then we used Matplotlib to create a line graph and provide a visual story from the data and represent our findings. 
 
 ## PyBer Ride Sharing Results 
 
