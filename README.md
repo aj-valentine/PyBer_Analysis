@@ -9,7 +9,7 @@ This project was created for V.Isulaize, a CEO of a ride sharing app, called PyB
 Overall, we saw varying trends in ride share information between the three city type classifications: Urban, Suburban, and Rural. 
 **Total Fares were ranked from highest to lowest: Urban $39,854 - Suburban $19,356 - Rural $4,327**
 
---- insert chart here 
+<img width="454" alt="summary_city_type_df" src="https://user-images.githubusercontent.com/67871338/90989614-25662780-e569-11ea-96ca-906cac98c513.PNG">
 
 1. Urban cities had the highest number of total rides at 1,625 - compared to Suburban at 625 and Rural at 125. 
 2. Urban cities also had the highest number of total drivers at 2,405 - compared to Suburban at 490 and Rural at 78. 
@@ -20,7 +20,7 @@ Overall, we saw varying trends in ride share information between the three city 
 
 When looking at the Total Fare by City Type by Week, we saw similar trends across the three city types. 
 
---- insert chart here
+![Fig1](https://user-images.githubusercontent.com/67871338/90989595-ff408780-e568-11ea-834d-c5fa06bca5a2.png)
 
 1. All three cities peaked in fare price in late February. 
 2. There was an increase in fares for Urban and Rural city types in the beginning of April. 
