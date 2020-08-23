@@ -7,6 +7,7 @@ This project was created for a CEO of a ride sharing app called PyBer. We were g
 ## PyBer Ride Sharing Results 
 
 Overall, we saw varying trends in ride share information between the three city type classifications: Urban, Suburban, and Rural. 
+
 **Total Fares were ranked from highest to lowest: Urban $39,854 - Suburban $19,356 - Rural $4,327**
 
 <img width="454" alt="summary_city_type_df" src="https://user-images.githubusercontent.com/67871338/90989614-25662780-e569-11ea-96ca-906cac98c513.PNG">
